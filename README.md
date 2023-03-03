@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Héctor, I'm a design engineer and digital marketing specialist. 
+
+- 🔭 I’m currently working on [Redsauce Software Quality](https://www.redsauce.net/)
+- 🌱 I’m currently learning Python and Data Science from [Microsoft](https://learn.microsoft.com/es-es/users/hctorsisternas-7744/)
+- 📫 How to reach me: hsisternas@outlook.com
+
+I'm not an expert, but if I can help you in any way I'll do my best.
 
 <!--
 **hsisternas/hsisternas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
