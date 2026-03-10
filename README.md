@@ -1,23 +1,15 @@
 ### Hi there 👋
-I'm Héctor, I'm a design engineer and digital marketing specialist. 
+I'm Héctor, a builder working at the intersection of automation, AI and digital marketing.
 
-- 🔭 I’m currently working on [Redsauce Software Quality](https://www.redsauce.net/)
-- 🌱 I’m currently learning Python and Data Science from [Microsoft](https://learn.microsoft.com/es-es/users/hctorsisternas-7744/)
+- 🔭 I’m currently building automation solutions for SMEs and working on digital projects like [Avanza Digital](https://avanzadigital.eu/)
+- ⚙️ I work with tools like n8n, Power Automate, Python, APIs and WordPress to automate real business processes
+- 🚗 I also run and experiment with projects in the automotive space and digital marketing
+- 🌱 I’m currently learning more about AI systems, automation architectures and scalable digital products
+- 💡 I enjoy turning messy manual workflows into clean automated systems
 - 📫 How to reach me: hsisternas@outlook.com
 
-I'm not an expert, but if I can help you in any way I'll do my best.
+I'm not an expert in everything, but I like building things, learning fast and sharing what works.
 
 <!--
-**hsisternas/hsisternas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**hsisternas/hsisternas** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
