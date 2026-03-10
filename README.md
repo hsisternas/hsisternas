@@ -3,7 +3,6 @@ I'm Héctor, a builder working at the intersection of automation, AI and digital
 
 - 🔭 I’m currently building automation solutions for SMEs and working on digital projects like [Avanza Digital](https://avanzadigital.eu/)
 - ⚙️ I work with tools like n8n, Power Automate, Python, APIs and WordPress to automate real business processes
-- 🚗 I also run and experiment with projects in the automotive space and digital marketing
 - 🌱 I’m currently learning more about AI systems, automation architectures and scalable digital products
 - 💡 I enjoy turning messy manual workflows into clean automated systems
 - 📫 How to reach me: hsisternas@outlook.com
